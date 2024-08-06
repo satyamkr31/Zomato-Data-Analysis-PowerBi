@@ -58,3 +58,4 @@ Explore the relationship between pricing and ratings to optimize pricing strateg
 
 ### Feedback Analysis:
 Analyze customer reviews and ratings to uncover patterns and areas for improvement.
+![Zomato Dashboard](https://github.com/user-attachments/assets/5aadcaf2-7f71-4934-b69d-61032b936790)
